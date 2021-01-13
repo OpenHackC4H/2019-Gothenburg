@@ -1,4 +1,4 @@
-# Gothenburg-2019
+# OH Gothenburg 2019 Winning solutions
 
 Team Name: Bots with drops
 Case Challenge: Watermark Challenge - Xylem
